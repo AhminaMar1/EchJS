@@ -1,7 +1,5 @@
-# Links & PHOTOS:
-![Snake GAME](https://github.com/AhminaMar1/Snake-JavaScript-2018/blob/main/SnakeGame.gif)
-
 [Snake Game](https://github.com/AhminaMar1/Snake-JavaScript-2018)
+![Snake GAME](https://github.com/AhminaMar1/Snake-JavaScript-2018/blob/main/SnakeGame.gif)
 
 [CALCULATOR](https://github.com/AhminaMar1/Calculator-javascript-2018)
 
