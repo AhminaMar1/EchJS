@@ -9,7 +9,7 @@
 
 [XD-BALL-GAME](https://github.com/AhminaMar1/XD-BALL-JavaScript-2018)
 
-![XD-BALL-GAME](./ejs3.gif)
+![XD-BALL-GAME](./ejs1.gif)
 
 
 [MAZE-BUILDER](https://github.com/AhminaMar1/XD-BALL-JavaScript-2018)
